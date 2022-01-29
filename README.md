@@ -10,6 +10,6 @@
 
 - If all runs well and there are no errors, then we are ready to build the app.
 - Open emulator of your choice ie Android or IOS emulator. You can also use your mobile phone to build the app.
-- Use terminal to run command (flutter run) inside the root of the project directory.
+- Use terminal to run command flutter run inside the root of the project directory.
 - The app should build successfully.
 
